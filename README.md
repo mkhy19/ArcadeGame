@@ -1,6 +1,17 @@
-frontend-nanodegree-arcade-game
-===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+# Classic-Arcade-Game-Project
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Arcade Game is the fourth project of the [Udacity's Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1)
+
+The important thing in this project is how to use and implement Javascript OOP features, this keyword and DOM JS to build the game.
+
+## To play the game on github pages : https://mohamedkhaledyousef.github.io/ArcadeGame/
+
+## Instructions to play the game : 
+1. This is the fisrt version of the game, here only one level 
+2. The objective is to reach to the water
+3. Avoid the enemy
+4. Each time you reach to the water, You will increase one point and start again from the beginning
+5. Each time you collision with the enemy, You will decrease one point and start again from the beginning
+6. To play and move you can use the arrow keys (left, right, up and top)
+
