@@ -5,7 +5,7 @@ Arcade Game is the fourth project of the [Udacity's Front-End Web Developer Nano
 
 The important thing in this project is how to use and implement Javascript OOP features, this keyword and DOM JS to build the game.
 
-## To play the game on github pages : https://mohamedkhaledyousef.github.io/ArcadeGame/
+## To play the game on github pages : https://mkhy19.github.io/ArcadeGame/
 
 ## Instructions to play the game : 
 1. This is the fisrt version of the game, here only one level 
